@@ -1,0 +1,105 @@
+PLAN OF WORK
+TITLE
+Do You Think You Know?
+Domain: C language
+Project By:
+KHUSHI M ASUDARIA
+(SFID 104409)
+Larsen & Toubro InfoTech
+
+
+
+
+	 
+
+
+
+
+
+SL No.	Topic
+1	Problem Statement
+2	Description
+3	Requirements
+4	 Research
+5	Test Plan & Test Cases
+6	Conclusion & Future Scope
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+⦁	Problem Statement:
+	A quiz reality show in which the person is answers the questions to win a prize. The higher the prize, tougher is the question. The maximum questions can go up to 10. It is a multiple choice based quiz. The prizes are very lucrative sponsored by L & T.
+⦁	Description:
+⦁	Welcome to “Do You Think You Know?”
+⦁	Register player name.
+⦁	It is a face to face game to reduce the chances of cheating.
+⦁	Describe the game.
+⦁	You will be asked one question.
+⦁	You are given multiple choice only one is correct.
+⦁	You have no hints or clues.
+⦁	You will be asked 10 questions.
+⦁	For each right answer, you will win a prize.
+⦁	If you answer wrong the game stops.
+⦁	The next question is tougher than the previous one.
+⦁	So are you ready?
+⦁	Game begins.
+⦁	Game ends with the prize being handed over.
+
+⦁	Requirements:
+⦁	Hardware requirements:
+⦁	Desktop or laptop with stable net connection.
+⦁	Software Requirements:
+⦁	Any operating system compatible with C-language.
+⦁	Preferred windows 7 and higher versions.
+
+⦁	Research Help:
+⦁	Encyclopedia
+⦁	Wikipedia
+⦁	General knowledge
+⦁	Oxford dictionary
+
+⦁	Test plan
+Algorithm:
+⦁	Take input from user
+⦁	Start game
+⦁	Ask questions
+⦁	For each correct answer update score.
+⦁	If wrong answer is chosen quit game.
+⦁	Test case:
+⦁	Enter your name: XYZ
+⦁	Enter your age:18
+⦁	Press s to start the game.
+⦁	Press r to reset the score.
+⦁	Press h to for help.
+⦁	Press y to begin the game.
+⦁	Press s to know the highest score.
+⦁	Sample question
+What is the capital of India?
+⦁	New delhi
+⦁	Hyderabad
+⦁	Mumbai
+⦁	Lahore
+⦁	Press key to answer question
+⦁	If pressed a) New Delhi you are right. Congratulations!! And go to next case.
+⦁	If pressed wrong key b) Sorry better luck next time and press any key to go home or else press q to quit the game.
+⦁	At the end of all questions calculate score and display message.
+
+⦁	Conclusion and future scope.
+The player wins a prize of each question.
+The future scope can be including a timer into the game, for each question and more stages.
+
+
