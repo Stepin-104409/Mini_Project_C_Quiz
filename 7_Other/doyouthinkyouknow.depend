@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1602763990 source:c:\users\hp\desktop\l&t_trainings\miniproject\doyouthinkyouknow\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+
