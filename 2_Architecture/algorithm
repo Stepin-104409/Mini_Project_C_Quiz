@@ -1,0 +1,6 @@
+Algorithm:
+⦁	Take input from user
+⦁	Start game
+⦁	Ask questions
+⦁	For each correct answer update score.
+⦁	If wrong answer is chosen quit game.
